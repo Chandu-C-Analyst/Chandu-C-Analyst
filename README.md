@@ -1,12 +1,12 @@
 # Chigurupati Chandu
 ### MEC Student | Future BCA | Data Architect
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GaowanSD/GaowanSD/master/anime-girl-manga.gif" width="100%">
-</p>
-
 ---
 
+## 📖 About Me
+I am a dedicated **Mathematics, Economics, and Commerce (MEC)** student currently transitioning into a **Bachelor of Computer Applications (BCA)** degree. My goal is to bridge the gap between complex financial logic and high-end data architecture. 🚀
+
+---
 ## Profile Status
 * **Roadmap:** MEC (Mathematics, Economics, Commerce) ➡️ BCA (Bachelor of Computer Applications).
 * **Current Focus:** Mastering C Foundations and Advanced Excel Logic.
@@ -18,11 +18,13 @@
 ## Technical Skills
 
 **Rare Specializations**
+
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 
 **Foundations**
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
