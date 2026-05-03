@@ -1,28 +1,39 @@
-# Hi there, I'm Chandu! 👋
-
-### 📊 Aspiring Data Analyst & Programmer
-I am a student currently diving into the world of Mathematics, Economics, and Commerce (MEC). I’m passionate about turning raw data into meaningful stories and building a strong foundation in computer science.
+# chigurupati chandu
+> MEC Student // Aspiring Data Analyst & Engineer
 
 ---
 
-### 🛠️ Tech Stack & Tools
-| Language/Tool | Status |
-| :--- | :--- |
-| **C Programming** | 🟡 Learning (Current focus) |
-| **Mathematics** | 🟢 Foundation Building |
-| **Data Analytics** | 🔴 Upcoming (SQL, Excel, Python) |
+### [ the_path ]
+- **current:** mastering C foundations + advanced Excel.
+- **academic:** moving from MEC (Math/Econ/Comm) to BCA.
+- **objective:** bridging the gap between economic logic and data architecture.
 
 ---
 
-### 🚀 My Journey
-- 🎓 **Upcoming:** Starting MEC Curriculum (June 2026).
-- 🎯 **Goal:** Transitioning into a Bachelor of Computer Applications (BCA).
-- ✍️ **Study Style:** I prefer the "pen-to-paper" method for logic before I write a single line of code.
-- 🔭 **Working on:** Building my first C repository: [C-Foundations](https://github.com/Chandu-C-Analyst/C-Foundations)
+### [ technical_stack ]
+**core_languages:**
+- C (currently documenting logic)
+- SQL (PostgreSQL / T-SQL)
+- Python (upcoming)
 
+**data_visualization & bi:**
+- Power BI (DAX / Power Query)
+- Tableau (Advanced Viz)
+
+**modern_data_stack (the rare stuff):**
+- Microsoft Fabric (OneLake / Data Factory / Synapse)
+- Data Engineering basics
 
 ---
 
-### 📫 Connect with me:
-- **Email:** [chandu.c.analyst@gmail.com](mailto:chandu.c.analyst@gmail.com)
-  
+### [ current_projects ]
+- **C-Foundations:** documenting the leap from logic to code.
+- **Market-Readiness:** building end-to-end dashboards for economic datasets.
+
+---
+
+### [ connect ]
+- **mail:** chandu.c.analyst@gmail.com
+- **vibe:** sketchy anime aesthetics / lo-fi / pen-to-paper logic.
+
+---
