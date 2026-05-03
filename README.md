@@ -1,39 +1,39 @@
-# chigurupati chandu
-> MEC Student // Aspiring Data Analyst & Engineer
+# Chigurupati Chandu
+### MEC Student | Future BCA | Data Architect
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GaowanSD/GaowanSD/master/anime-girl-manga.gif" width="100%">
+</p>
 
 ---
 
-### [ the_path ]
-- **current:** mastering C foundations + advanced Excel.
-- **academic:** moving from MEC (Math/Econ/Comm) to BCA.
-- **objective:** bridging the gap between economic logic and data architecture.
+## Profile Status
+* **Roadmap:** MEC (Mathematics, Economics, Commerce) ➡️ BCA (Bachelor of Computer Applications).
+* **Current Focus:** Mastering C Foundations and Advanced Excel Logic.
+* **Target Goal:** Data Analyst specializing in **Microsoft Fabric** ecosystems.
+* **Methodology:** Solving 100% of logic on paper before writing a single line of code. 🖋️
 
 ---
 
-### [ technical_stack ]
-**core_languages:**
-- C (currently documenting logic)
-- SQL (PostgreSQL / T-SQL)
-- Python (upcoming)
+## Technical Skills
 
-**data_visualization & bi:**
-- Power BI (DAX / Power Query)
-- Tableau (Advanced Viz)
+**Rare Specializations**
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 
-**modern_data_stack (the rare stuff):**
-- Microsoft Fabric (OneLake / Data Factory / Synapse)
-- Data Engineering basics
+**Foundations**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
-### [ current_projects ]
-- **C-Foundations:** documenting the leap from logic to code.
-- **Market-Readiness:** building end-to-end dashboards for economic datasets.
+## Featured Repository
+📂 **[C-Foundations](https://github.com/Chandu-C-Analyst/C-Foundations)**
+> Documenting the transition from logical problem-solving to machine-executable code.
 
 ---
 
-### [ connect ]
-- **mail:** chandu.c.analyst@gmail.com
-- **vibe:** sketchy anime aesthetics / lo-fi / pen-to-paper logic.
-
----
+## Contact
+**Email:** [chandu.c.analyst@gmail.com](mailto:chandu.c.analyst@gmail.com)
