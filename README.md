@@ -1,18 +1,23 @@
-# Chigurupati Chandu
-### MEC Student | Future BCA | Data Architect
+# ⚡ Chigurupati Chandu
+### Data Analyst | Future BCA | Fabric Architect
 
 ---
 
-## 📖 About Me
-I am a dedicated **Mathematics, Economics, and Commerce (MEC)** student currently transitioning into a **Bachelor of Computer Applications (BCA)** degree. My goal is to bridge the gap between complex financial logic and high-end data architecture. 🚀
+<img src="IMG_20260503_192335.png" width="100%">
 
 ---
-## Profile Status
-* **Roadmap:** MEC (Mathematics, Economics, Commerce) ➡️ BCA (Bachelor of Computer Applications).
-* **Current Focus:** Mastering C Foundations and Advanced Excel Logic.
-* **Target Goal:** Data Analyst specializing in **Microsoft Fabric** ecosystems.
-* **Methodology:** Solving 100% of logic on paper before writing a single line of code. 🖋️
+## 📂 About Me
+A dedicated student leveraging strong mathematical and economic logic from an MEC background to engineer robust data solutions. Actively building expertise in rare and high-value technical stacks like **Microsoft Fabric** to provide unique market value.
 
+I believe in the 'Proof of Work' strategy—solving logic on paper before writing code. 🖋️
+
+
+---
+## 📂 Profile Status
+- **Roadmap:** MEC (Math, Econ, Comm) ➡️ BCA (Bachelor of Computer Applications) ➡️ Data Architect.
+- **Focus:** Mastering C programming foundations for logical depth, plus SQL and Excel for analytics.
+- **Rare Specialization:** Microsoft Fabric ecosystem (OneLake, Data Factory, Synapse, Power BI/Dataflow Gen2).
+- **Aesthetic:** Minimalist, direct, and efficient.
 ---
 
 ## Technical Skills
@@ -41,5 +46,5 @@ I am a dedicated **Mathematics, Economics, and Commerce (MEC)** student currentl
 **Email:** [chandu.c.analyst@gmail.com](mailto:chandu.c.analyst@gmail.com)
 
 
-<img src="IMG_20260503_192335.png" width="100%">
+
 
